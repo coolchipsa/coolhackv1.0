@@ -31,7 +31,7 @@ local colors = {
 }
 ]]
 -- Создать окно UI
-local Window = Library.CreateLib("coolhack v 1.0", "RJTheme6")
+local Window = Library.CreateLib("клёвая чипса hack v 1.0", "RJTheme6")
 
 -- Секция
 local Tab = Window:NewTab("humanoid")
